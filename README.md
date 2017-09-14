@@ -1,6 +1,6 @@
-# vuexapp
+#vue.js 2
 
-> Vue.js project
+>ArticleVuex
 
 ## Build Setup
 
